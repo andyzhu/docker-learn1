@@ -12,6 +12,7 @@ function App() {
           You are welcome!
           Byte bites!
           I am inside the docker composer now!
+          And I joined the feature branch!
         </p>
         <a
           className="App-link"
